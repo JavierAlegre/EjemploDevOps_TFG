@@ -6,14 +6,13 @@
 package es.upsa.ejemplo_tfg;
 
 /**
- *
  * @author Usuario
  */
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) {  
         
-        System.out.println("¡HOLA MUNDO!"); 
-        System.out.println("¿Que tal ?");
+        System.out.println("¡HOLA!,¿Que tal?");
         
+        System.out.println("¡Muy bien!");
     }
 }
